@@ -1,0 +1,11 @@
+email: glenn@bra-alta.no
+fullname: 'Glenn E. Karlsen'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$kOSz5c0ihKhnbxsfND8rpuIiRvCagw3AkfYglbnjlQVG5eRzVmQU6
